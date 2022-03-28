@@ -14,6 +14,8 @@ This repository contains the data and boilerplate code to build our model. You s
 
     git clone https://github.com/AydinGokce/HAPE-AI.git
 
+After this, unzip the `dev-data.zip` file to the SAME DIRECTORY, with the name as `dev-data/`
+
 ### 2. Set Up Anaconda Environment
 If you do not have Anaconda installed, you must install it following the installation guide: https://docs.anaconda.com/anaconda/install/index.html
 
