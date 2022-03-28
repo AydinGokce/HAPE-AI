@@ -25,6 +25,8 @@ After installation, you must create a virtual environment in python 3.9
 
 
 ### 3. (Optional) Install CUDA for GPU Usage
+If you have an NVIDIA GPU that supports CUDA, you may want to use it to run calculations faster while training.
+
 In order to use GPU acceleration to train the model, you must have the right CUDA drivers and [toolkit](https://developer.nvidia.com/cuda-toolkit) installed for your PC. If you are on linux, make sure you're not using the open source nouveau drivers.
 
 Search online and on NVIDIA's website to download the drivers and CUDA toolkit, and follow NVIDIA's installation guide to make sure your environment is properly set up.  
